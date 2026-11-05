@@ -1,0 +1,18 @@
+{
+  "champion": "random_forest",
+  "candidates": {
+    "random_forest": {
+      "settings": {
+        "classify__max_depth": 9,
+        "classify__min_samples_leaf": 15
+      },
+      "mean_roc_auc": 0.8752
+    },
+    "logistic_baseline": {
+      "settings": {
+        "classify__C": 0.1
+      },
+      "mean_roc_auc": 0.8659
+    }
+  }
+}

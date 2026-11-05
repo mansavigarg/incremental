@@ -1,0 +1,10 @@
+{
+  "balanced": {
+    "roc_auc": 0.8521,
+    "defaulters_caught": 0.7069
+  },
+  "none": {
+    "roc_auc": 0.8554,
+    "defaulters_caught": 0.1337
+  }
+}

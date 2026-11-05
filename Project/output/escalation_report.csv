@@ -1,0 +1,31 @@
+thread_id,application_reference,category,urgency,sentiment,exposure_inr,escalate,reasons
+THR000001,LA002215,kyc,high,not_asked,6030000,True,high urgency; large exposure
+THR000002,LA017446,payment_issue,low,not_asked,871000,False,
+THR000003,LA007497,loan_query,low,neutral,2095000,False,large exposure
+THR000004,LA016749,complaint,high,neutral,50000,False,high urgency
+THR000005,LA007846,kyc,medium,not_asked,177000,False,
+THR000006,LA020962,payment_issue,low,not_asked,562000,False,
+THR000007,LA025265,loan_query,high,neutral,462000,False,high urgency
+THR000008,LA011348,complaint,low,not_asked,256000,False,
+THR000009,LA027637,kyc,low,not_asked,449000,False,
+THR000010,LA010113,payment_issue,high,neutral,654000,False,high urgency
+THR000011,LA026839,loan_query,low,not_asked,997000,False,
+THR000012,LA003203,complaint,low,not_asked,334000,False,
+THR000013,LA007564,kyc,medium,worried,1500000,True,customer sounds worried; large exposure
+THR000014,LA017730,payment_issue,high,neutral,302000,False,high urgency
+THR000015,LA024194,loan_query,low,not_asked,656000,False,
+THR000016,LA025099,complaint,low,not_asked,479000,False,
+THR000017,LA003688,kyc,low,not_asked,53000,False,
+THR000018,LA017623,payment_issue,high,not_asked,4006000,True,high urgency; large exposure
+THR000019,LA019337,loan_query,medium,neutral,2667000,False,large exposure
+THR000020,LA017962,complaint,high,happy,984000,False,high urgency
+THR000021,LA020721,kyc,medium,not_asked,0,False,
+THR000022,LA006722,payment_issue,high,neutral,447000,False,high urgency
+THR000023,LA021248,loan_query,low,not_asked,413000,False,
+THR000024,LA032640,complaint,low,angry,1803000,True,customer sounds angry; large exposure
+THR000025,LA000286,kyc,high,worried,27000,True,high urgency; customer sounds worried
+THR000026,LA008696,payment_issue,medium,not_asked,982000,False,
+THR000027,LA032276,loan_query,high,not_asked,1500000,True,high urgency; large exposure
+THR000028,LA019470,complaint,low,angry,2433000,True,customer sounds angry; large exposure
+THR000029,LA032181,kyc,low,not_asked,193000,False,
+THR000030,LA009863,payment_issue,medium,not_asked,181000,False,

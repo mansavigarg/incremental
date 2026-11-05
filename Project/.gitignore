@@ -1,0 +1,13 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.agents/
+.codex/
+docs/
+output/logs/
+database/assistant_threads.sqlite
+database/api_applications.db
+artifacts/llm_cache.json
+*.zip

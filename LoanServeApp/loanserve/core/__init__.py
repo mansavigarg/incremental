@@ -1,0 +1,1 @@
+"""Lending domain and calculations."""
